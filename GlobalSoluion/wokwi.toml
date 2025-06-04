@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+licenseKey = "wok_IURf3R9KGfcpZ8dmQcD2OWVVyJeFQM2A61c9e16c"
+elf = "../.pio/build/GlobalSolution/firmware.elf"
+firmware = "../.pio/build/GlobalSolution/firmware.bin"
