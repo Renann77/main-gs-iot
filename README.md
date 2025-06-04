@@ -92,4 +92,7 @@ Criar um sistema completo, escalável e replicável que combine:
 
 
 
-![image](https://github.com/user-attachments/assets/6b000b3e-ae3c-4478-93e9-7bd5bd35b2c4)
+![Untitled](https://github.com/user-attachments/assets/e5161408-fd5f-461f-8b89-e93243b80bba)
+
+
+
